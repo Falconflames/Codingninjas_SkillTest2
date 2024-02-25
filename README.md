@@ -18,3 +18,4 @@ It also redirects users to a youtube videos for the recipe of meal.
 
 # Go To Meal App
 
+ https://falconflames.github.io/Codingninjas_SkillTest2/
