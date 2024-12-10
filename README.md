@@ -12,7 +12,7 @@ The most important thing about this project it is fully responsive in nature and
 
 It also redirects users to a youtube videos for the recipe of meal.
 
-# Buid Using
+# Build Using
 
 🟣 HTML 🟣 Pure CSS 🟣 Vanilla Javascript
 
